@@ -2,7 +2,7 @@
  
 Trabajo final (grupal) del [curso Fundamentos de Python para las Ciencias Sociales - 2024-0](https://github.com/luccemhu/python_para_las_ccss)
 
-Profesora del curso : [Carla Solis Uehara](https://github.com/ccsuehara)
+Profesora del [curso](https://github.com/ccsuehara/python_para_las_ccss) : [Carla Solis Uehara](https://github.com/ccsuehara)
 
 -  Co-authored-by: [Joel Belsasar](https://github.com/luccemhu)
 
